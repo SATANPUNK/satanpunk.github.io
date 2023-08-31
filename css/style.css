@@ -1,0 +1,17 @@
+body {background-color:#f7f7f7;margin:0;color:#141414;font-family: 'RIDIBatang', 'Noto Serif KR','Helvetica Neue','Apple SD Gothic Neo', sans-serif;}
+a {color: #141414;}
+a:hover {color: #DD6C5C;}
+svg:hover .svg {fill: #DD6C5C;transition: all 0.2s;}
+p {line-height: 1.8rem;}
+hr {background:#cccccc;height:1px;border:0;max-width:700px; margin:auto;}
+article {max-width:670px;font-size:1.1rem;text-align:left;margin:auto;height:auto;padding-left:3%;padding-right:3%;}
+article a {color:#327FE5;text-decoration:none;}
+ul {font-size:1.1rem;margin:auto;padding-left:3%;padding-right:2%;line-height:1.8rem;}
+footer {max-width:670px;height:auto;text-align:center;margin:20px auto;}
+footer a {font-size:1.2rem;text-align:center;display:inline;padding:5px;text-decoration:none;}
+.info {max-width:670px;padding-top:30px;margin:auto;height:auto;text-align:center;font-size:1.2rem;}
+.info a {display:inline-block;text-decoration:none;}
+#sasapage {margin-top:25px;margin-bottom:25px;text-align:center;}
+#sasapage a {text-align:center;display:inline-block;text-decoration:none;}
+#list {max-width:670px;font-size:1.2rem;line-height:2.0rem;margin:25px auto;padding-left:3%;padding-right:3%;height:auto;list-style:none;}
+#list a {display:inline-block;list-style:none;text-decoration:none;}
